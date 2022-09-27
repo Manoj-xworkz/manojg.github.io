@@ -1,0 +1,62 @@
+h1,h2{
+    color:red;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lets{
+    color: green;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: blueK;
+    background-image: url(table.JPG);
+   }
+.padding{
+    padding: 10px 5px 6px 20px;
+    /*top,right,bottom,left*/
+    padding-right:20px;
+    border: 10px dashed yellowgreen;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+.rect{
+
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+.rect1{
+
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+
+.rect2{
+
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+
+.rect3{
+
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    
+}
+
+.rect4{
+
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+   margin:30px;
+}

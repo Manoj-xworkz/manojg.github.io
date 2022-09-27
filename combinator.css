@@ -1,0 +1,25 @@
+
+/* desendant selector*/
+
+div p {
+    color: green;
+    font-size: 50px;
+}
+
+
+/* child selector*/
+span > p{
+    color: blue;
+    font-size: 50px;
+}
+
+/* Adjacent sibling selector*/
+div + P{
+    color: pink;
+    font-size: 50px;
+}
+
+div ~ p {
+    color: darkblue;
+    font-size: 50px;
+}
